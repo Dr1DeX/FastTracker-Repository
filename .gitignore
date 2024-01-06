@@ -1,0 +1,12 @@
+*.log
+.env
+.idea
+__pycache__
+venv
+.venv
+.idea
+*static
+*.out
+migrations/
+*.out
+*.sqlite3

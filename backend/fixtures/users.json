@@ -1,0 +1,35 @@
+[
+  {
+    "model": "users.executortotask",
+    "pk": 1,
+    "fields": {
+      "name": "Vasyan Castello",
+      "email": "vasya@bot.ru",
+      "pr_task": "PR-123-LOL",
+      "registration_date": "2024-01-04",
+      "avatar": "/media/photo/enoter.jpg"
+    }
+  },
+  {
+    "model": "users.executortotask",
+    "pk": 2,
+    "fields": {
+      "name": "Egor Topor",
+      "email": "eger@bot.ru",
+      "pr_task": "PR-124-Da",
+      "registration_date": "2024-01-01",
+      "avatar": "/media/photo/barsik.jpg"
+    }
+  },
+  {
+    "model": "users.executortotask",
+    "pk": 3,
+    "fields": {
+      "name": "Sanya Clatcher",
+      "email": "sanboy@bot.ru",
+      "pr_task": "PR-12-HYMF",
+      "registration_date": "2024-01-04",
+      "avatar": "/media/photo/programmer.jpg"
+    }
+  }
+]
